@@ -1,0 +1,3 @@
+class PurgeLocalStorage {
+  const PurgeLocalStorage();
+}

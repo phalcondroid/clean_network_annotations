@@ -1,0 +1,3 @@
+class SaveLocalStorage {
+  const SaveLocalStorage();
+}

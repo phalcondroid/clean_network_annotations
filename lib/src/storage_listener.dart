@@ -1,0 +1,3 @@
+class StorageListener {
+  const StorageListener();
+}

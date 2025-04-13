@@ -1,0 +1,3 @@
+class DeleteLocalStorage {
+  const DeleteLocalStorage();
+}
