@@ -1,7 +1,7 @@
 /// Support for doing something awesome.
 ///
 /// More dartdocs go here.
-library;
+library clean_network_annotations;
 
 export 'src/rest_repository.dart';
 export 'src/post.dart';
